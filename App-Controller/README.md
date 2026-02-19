@@ -38,12 +38,18 @@ workshop.
 ## Screens Overview
 
 ### Bluetooth Device Selection
-![Bluetooth Device List](Screenshots/VoiceApp-SelectionList.jpeg)
-Displays all nearby Bluetooth devices after scanning.\
+<p align="center">
+  <img src="Screenshots/VoiceApp-SelectionList.jpeg" width="250">
+</p>
+
+Displays all nearby Bluetooth devices after scanning.
 Users must select a device before sending commands.
 
 ### Main Controller Interface
-![Main Page](Screenshots/VoiceApp-MainPage.jpeg)
+<p align="center">
+  <img src="Screenshots/VoiceApp-MainPage.jpeg" width="250">
+</p>
+
 Contains: - Connection status indicator - Voice listening feature - Manual direction buttons
 
 
